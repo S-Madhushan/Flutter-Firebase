@@ -33,7 +33,7 @@ class _Home_ScreenState extends State<Home_Screen> {
             ),
             TextFormField(
               controller: nameController,
-              decoration: InputDecoration(labelText: 'Enter Name',border: OutlineInputBorder()),
+              decoration: InputDecoration(labelText: 'Enter Your Name',border: OutlineInputBorder()),
             ),
             SizedBox(height: 25,
             width: 20,
